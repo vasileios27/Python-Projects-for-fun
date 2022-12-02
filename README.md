@@ -1,2 +1,3 @@
 # Python-Projects-for-fun
-BLA BLA
+
+A python project for beginners, creating a simple version of Pong game
